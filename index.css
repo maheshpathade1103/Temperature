@@ -14,6 +14,7 @@
             <label for="inputCelsius">Celsius:</label>
             <input type="number" id="inputCelsius" placeholder="Enter Celsius">
         </div>
+        
 
         <div class="input-group">
             <label for="inputFahrenheit">Fahrenheit:</label>
